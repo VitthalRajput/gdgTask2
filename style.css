@@ -6,6 +6,7 @@
         }
 
         :root {
+            /* -- prefix defines a custom property (variable) */
             --primary-color: #121212;
             --secondary-color: #1e1e1e;
             --accent-color: #bb86fc;
